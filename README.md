@@ -41,7 +41,7 @@
 * Coordinated multipoint
 * HetNet - heterogenous network
 
-ITU
+# ITU
 * Manage the international RF spectrum
 * https://www.ofcom.org.uk/spectrum/information/uk-fat
 * https://www.ofcom.org.uk/__data/assets/pdf_file/0016/103309/uk-fat-2017.pdf
@@ -49,3 +49,6 @@ ITU
 # Transmission
 * https://en.wikipedia.org/wiki/Frequency-hopping_spread_spectrum
 * https://en.wikipedia.org/wiki/Chirp
+
+# References
+* http://www.prattfamily.demon.co.uk/mikep/frequency.htm
